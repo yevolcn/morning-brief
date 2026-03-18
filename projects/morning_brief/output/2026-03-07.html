@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌅 晨间简报 - 2026-03-07</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Noto Sans SC', 'sans-serif'],
+                    },
+                    colors: {
+                        primary: '#6366f1',
+                        secondary: '#8b5cf6',
+                        accent: '#f472b6',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .glass {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        .card-hover:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+        .news-card {
+            border-left: 4px solid #6366f1;
+        }
+        .tag {
+            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+        }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <!-- Hero Section -->
+    <div class="gradient-bg text-white">
+        <div class="container mx-auto px-4 py-16">
+            <div class="text-center">
+                <div class="inline-flex items-center justify-center w-20 h-20 bg-white/20 rounded-full mb-6 backdrop-blur-sm">
+                    <i class="fas fa-sun text-4xl"></i>
+                </div>
+                <h1 class="text-4xl md:text-6xl font-bold mb-4">晨间简报</h1>
+                <p class="text-xl md:text-2xl opacity-90">2026-03-07</p>
+                <p class="text-lg opacity-75 mt-2">星期六</p>
+                <div class="mt-6 inline-flex items-center gap-2 bg-white/20 px-6 py-2 rounded-full backdrop-blur-sm">
+                    <i class="fas fa-robot"></i>
+                    <span>由 OpenClaw AI 生成</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mx-auto px-4 -mt-8">
+        <!-- Weather Card -->
+        <div class="glass rounded-2xl p-6 md:p-8 mb-8 shadow-lg">
+            <div class="flex items-center gap-4 mb-4">
+                <div class="w-12 h-12 bg-gradient-to-br from-blue-400 to-cyan-400 rounded-xl flex items-center justify-center text-white">
+                    <i class="fas fa-cloud-sun text-2xl"></i>
+                </div>
+                <h2 class="text-2xl font-bold text-gray-800">今日天气</h2>
+            </div>
+            
+            <div class="flex flex-col md:flex-row items-center gap-6">
+                <div class="text-6xl">🌤️</div>
+                <div class="text-center md:text-left">
+                    <p class="text-3xl font-bold text-gray-800">深圳 晴间多云 19°C</p>
+                    <p class="text-gray-600 mt-2">阳光明媚，注意防晒补水。</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- News Section -->
+        <div class="mb-8">
+            <div class="flex items-center gap-4 mb-6">
+                <div class="w-12 h-12 bg-gradient-to-br from-purple-500 to-pink-500 rounded-xl flex items-center justify-center text-white">
+                    <i class="fas fa-newspaper text-2xl"></i>
+                </div>
+                <div>
+                    <h2 class="text-2xl font-bold text-gray-800">昨日AI新闻</h2>
+                    <p class="text-gray-500">共 20 条</p>
+                </div>
+            </div>
+
+            <div class="grid gap-6">
+                
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">产品发布</span>
+                <span class="text-gray-400 text-sm">软盟资讯</span>
+                <span class="text-gray-400 text-sm">· 2026-03-06</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">OpenAI发布GPT-5.4模型，支持原生电脑操控</h3>
+            <p class="text-gray-600 leading-relaxed">OpenAI正式发布GPT-5.4模型，该模型具备原生电脑操控能力、100万token上下文及Thinking模式，可直接操控电脑完成各类任务，进一步提升大模型的实用价值。</p>
+            <a href="https://news.softunis.com/52880.html" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">产品发布</span>
+                <span class="text-gray-400 text-sm">软盟资讯</span>
+                <span class="text-gray-400 text-sm">· 2026-03-06</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">苹果发布M5芯片MacBook，续航首次突破24小时</h3>
+            <p class="text-gray-600 leading-relaxed">苹果发布搭载M5芯片的新款MacBook Pro与MacBook Air，续航首次突破24小时，AI性能暴涨4倍，集成了核心速度首屈一指的新中央处理器。</p>
+            <a href="https://news.softunis.com/52880.html" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">人事变动</span>
+                <span class="text-gray-400 text-sm">新浪科技</span>
+                <span class="text-gray-400 text-sm">· 2026-03-06</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">阿里确认通义千问负责人林俊旸离职</h3>
+            <p class="text-gray-600 leading-relaxed">阿里巴巴确认技术负责人林俊旸离职，其团队发布的Qwen 3.5 Small系列小模型在多项基准测试中击败参数量大得多的对手，谷歌、智谱等公司已展开人才争夺。</p>
+            <a href="https://news.sina.com.cn/zx/ds/2026-03-06/doc-inhpytyw2813020.shtml" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">技术突破</span>
+                <span class="text-gray-400 text-sm">软盟资讯</span>
+                <span class="text-gray-400 text-sm">· 2026-03-06</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">宇树开源OmniXtreme人形机器人架构，G1学会后空翻成功率超96%</h3>
+            <p class="text-gray-600 leading-relaxed">宇树科技联合北京通用人工智能研究院、上海交通大学等发布OmniXtreme新框架，让宇树G1机器人学会执行连续翻转、极限平衡、霹雳舞等24种高难度动作。</p>
+            <a href="https://news.softunis.com/52880.html" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">产品发布</span>
+                <span class="text-gray-400 text-sm">新浪科技</span>
+                <span class="text-gray-400 text-sm">· 2026-03-06</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">小米版OpenClaw来了，手机就能养龙虾</h3>
+            <p class="text-gray-600 leading-relaxed">小米于2026年3月6日启动移动端系统级智能体Xiaomi miclaw的小范围封闭测试，基于小米MiMo大模型构建，可调用超过50个系统工具及米家生态设备。</p>
+            <a href="https://news.sina.com.cn/zx/ds/2026-03-06/doc-inhpytyw2813020.shtml" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">数据统计</span>
+                <span class="text-gray-400 text-sm">新浪科技</span>
+                <span class="text-gray-400 text-sm">· 2026-03-06</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">世界知识产权组织：2025年中国申请国际专利量领跑全球</h3>
+            <p class="text-gray-600 leading-relaxed">世界知识产权组织发布2025年数据显示，中国以超7.3万件申请量位居全球第一，同比增长5.3%，人工智能正成为最新增长引擎。</p>
+            <a href="https://news.sina.com.cn/zx/ds/2026-03-06/doc-inhpzzup2476382.shtml" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">政策动态</span>
+                <span class="text-gray-400 text-sm">中新网</span>
+                <span class="text-gray-400 text-sm">· 2026-03-09</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">脑机接口首入政府工作报告，与未来能源、量子科技等并列</h3>
+            <p class="text-gray-600 leading-relaxed">2026年，脑机接口首次写入政府工作报告，与未来能源、量子科技、具身智能、6G并列，被明确为培育发展的未来产业之一。</p>
+            <a href="http://finance.sina.com.cn/roll/2026-03-09/doc-inhqksxq3960596.shtml" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">人才市场</span>
+                <span class="text-gray-400 text-sm">每日经济新闻</span>
+                <span class="text-gray-400 text-sm">· 2026-03-09</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">2026年春招AI人才身价暴涨：岗位量增12倍，平均月薪超6万元</h3>
+            <p class="text-gray-600 leading-relaxed">脉脉发布的数据显示，2026年前两月招聘市场回暖，AI人才争夺成主战场，岗位量暴涨12倍，平均月薪60738元，大模型算法等岗位需求旺盛。</p>
+            <a href="https://www.nbd.com.cn/articles/2026-03-09/4285378.html" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">学术研究</span>
+                <span class="text-gray-400 text-sm">IT之家</span>
+                <span class="text-gray-400 text-sm">· 2026-03-09</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">新研究：AI内容披露标签或降低真信息可信度、提升假信息可信度</h3>
+            <p class="text-gray-600 leading-relaxed">发表在《科学传播期刊》上的一项新研究警告称，AI内容披露标签可能产生与监管机构意图相反的效果——降低真实科学信息的可信度，同时提升虚假信息的可信度。</p>
+            <a href="http://finance.sina.com.cn/tech/digi/2026-03-09/doc-inhqksxt6990220.shtml" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">政策解读</span>
+                <span class="text-gray-400 text-sm">时代周报</span>
+                <span class="text-gray-400 text-sm">· 2026-03-09</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">智能体被列入政策核心，AI手机彻底打开想象空间</h3>
+            <p class="text-gray-600 leading-relaxed">今年政府工作报告指出，要推动重点行业领域人工智能商业化规模化应用，培育智能原生新业态新模式，这是'智能原生'首次进入两会视野。</p>
+            <a href="http://k.sina.com.cn/article_5953740931_162dee08306702t7xs.html" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">投资并购</span>
+                <span class="text-gray-400 text-sm">财新网</span>
+                <span class="text-gray-400 text-sm">· 2026-03-10</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">Meta收购AI智能体社交平台Moltbook</h3>
+            <p class="text-gray-600 leading-relaxed">Meta收购了AI智能体社交平台Moltbook，Moltbook团队将加入Meta超智能实验室（MSL），为AI智能体服务于个人与企业开辟了新路径。</p>
+            <a href="https://www.caixin.com/2026-03-13/102422463.html" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">产品发布</span>
+                <span class="text-gray-400 text-sm">软盟资讯</span>
+                <span class="text-gray-400 text-sm">· 2026-03-10</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">腾讯SkillHub社区正式上线：收录超1.3万个AI技能</h3>
+            <p class="text-gray-600 leading-relaxed">腾讯正式推出AI技能社区SkillHub，针对中国用户深度优化，目前已收录超过1.3万个本土化AI技能，提供国内镜像加速，大幅降低普通用户使用AI工具的门槛。</p>
+            <a href="https://news.softunis.com/53134.html" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">行业调研</span>
+                <span class="text-gray-400 text-sm">IT之家</span>
+                <span class="text-gray-400 text-sm">· 2026-03-10</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">毕马威调查：多数美企CEO认为AI短期被高估，长期潜力却被低估</h3>
+            <p class="text-gray-600 leading-relaxed">四分之三的大型企业CEO表示，过去一年生成式人工智能或许被过度炒作，但其在未来5至10年的真正影响力与'颠覆性潜力'，很可能被低估了。</p>
+            <a href="http://finance.sina.com.cn/stock/t/2026-03-10/doc-inhqnvws0066521.shtml" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">政策动态</span>
+                <span class="text-gray-400 text-sm">深圳新闻网</span>
+                <span class="text-gray-400 text-sm">· 2026-03-10</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">深圳正重写城市'操作系统'，ALL IN AI</h3>
+            <p class="text-gray-600 leading-relaxed">《深圳市'人工智能+'先进制造业行动计划（2026-2027年）》明确提出，以'一基地、一中心、一联盟、百场景、多集群'为路径，推动人工智能成为新型工业化的核心驱动力。</p>
+            <a href="https://www.sznews.com/news/content/2026-03/10/content_31970913.htm" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">行业观点</span>
+                <span class="text-gray-400 text-sm">经济观察报</span>
+                <span class="text-gray-400 text-sm">· 2026-03-10</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">黄仁勋发表署名长文，提出AI'五层蛋糕'框架</h3>
+            <p class="text-gray-600 leading-relaxed">英伟达创始人黄仁勋发表了署名长文，提到AI的'五层蛋糕'框架：能源、芯片、基础设施、模型和应用，指出AI跨越了一个重要门槛，可以大规模投入使用。</p>
+            <a href="https://finance.sina.com.cn/stock/t/2026-03-15/doc-inhqzqrz9766345.shtml" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">公司动态</span>
+                <span class="text-gray-400 text-sm">每日经济新闻</span>
+                <span class="text-gray-400 text-sm">· 2026-03-11</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">马化腾凌晨发朋友圈，全系'龙虾'产品矩阵雏形初现</h3>
+            <p class="text-gray-600 leading-relaxed">腾讯CEO马化腾在朋友圈晒出'龙虾全家桶'，目前已有腾讯版'龙虾'WorkBuddy、接入企微的OpenClaw、QQ接入的OpenClaw、腾讯云轻量云部署的OpenClaw，市值重回5万亿港元。</p>
+            <a href="http://finance.sina.com.cn/stock/marketresearch/2026-03-11/doc-inhqrmmm9259583.shtml" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">产品发布</span>
+                <span class="text-gray-400 text-sm">上观新闻</span>
+                <span class="text-gray-400 text-sm">· 2026-03-11</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">华为推出'鸿蒙版龙虾'，小米、荣耀跟进智能体</h3>
+            <p class="text-gray-600 leading-relaxed">华为终端BG首席执行官何刚展示了华为鸿蒙手机上的小艺Claw，小米发布手机AI助手Xiaomi miclaw，荣耀推出荣耀龙虾宇宙，大厂间的AI军备竞赛从大模型卷向智能体应用。</p>
+            <a href="http://k.sina.com.cn/article_5953741034_162dee0ea06703b9dm.html" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">产品发布</span>
+                <span class="text-gray-400 text-sm">新浪财经</span>
+                <span class="text-gray-400 text-sm">· 2026-03-11</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">谷歌发布多模态模型Gemini Embedding 2</h3>
+            <p class="text-gray-600 leading-relaxed">谷歌发布其首个多模态人工智能模型Gemini Embedding 2，可将文本、图像、视频、音频和文档映射到一个统一的嵌入空间中，能在100多种语言中捕捉语义意图。</p>
+            <a href="http://finance.sina.com.cn/stock/hkstock/ggscyd/2026-03-11/doc-inhqqqfv9509738.shtml" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">技术突破</span>
+                <span class="text-gray-400 text-sm">科创板日报</span>
+                <span class="text-gray-400 text-sm">· 2026-03-11</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">机器人流畅干家务，Figure展示神经网络成果据称'完全自主'</h3>
+            <p class="text-gray-600 leading-relaxed">人形机器人公司Figure发出最新演示视频，其搭载全新AI系统Helix 02的机器人Figure 03，能够完全自主、端到端全流程整理客厅。</p>
+            <a href="http://finance.sina.com.cn/jjxw/2026-03-11/doc-inhqqqfu2722234.shtml" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="glass rounded-2xl p-6 shadow-lg card-hover news-card">
+    <div class="flex flex-col md:flex-row md:items-start gap-4">
+        <div class="flex-1">
+            <div class="flex items-center gap-2 mb-2">
+                <span class="tag text-white text-xs px-3 py-1 rounded-full font-medium">行业动态</span>
+                <span class="text-gray-400 text-sm">财新网</span>
+                <span class="text-gray-400 text-sm">· 2026-03-11</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800 mb-2">国家超算互联网平台宣布免费送'龙虾'用户每人1000万Tokens</h3>
+            <p class="text-gray-600 leading-relaxed">国家超算互联网平台宣布，面向全体OpenClaw用户，免费发放每人限时2周、总计1000万Tokens的使用额度，之后的限时续用价为0.1元/百万Tokens。</p>
+            <a href="https://www.caixin.com/2026-03-13/102422463.html" target="_blank" class="inline-flex items-center gap-2 text-primary hover:text-secondary mt-3 font-medium transition-colors">
+                阅读原文 <i class="fas fa-external-link-alt text-sm"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+
+        <!-- Insights Section -->
+        <div class="glass rounded-2xl p-6 md:p-8 mb-8 shadow-lg bg-gradient-to-r from-amber-50 to-orange-50">
+            <div class="flex items-center gap-4 mb-4">
+                <div class="w-12 h-12 bg-gradient-to-br from-amber-400 to-orange-400 rounded-xl flex items-center justify-center text-white">
+                    <i class="fas fa-lightbulb text-2xl"></i>
+                </div>
+                <h2 class="text-2xl font-bold text-gray-800">今日建议</h2>
+            </div>
+            
+            <div class="bg-white/60 rounded-xl p-6">
+                <p class="text-gray-700 leading-relaxed text-lg">NVIDIA GTC大会展示了AI硬件的最新进展，Vera Rubin平台将推动智能体AI发展，建议关注推理芯片和边缘计算领域的机会。</p>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="text-center py-8 text-gray-400">
+            <p><i class="fas fa-clock mr-2"></i>生成时间：2026-03-18 21:09</p>
+            <p class="mt-2">OpenClaw 智能助手 · 每日更新</p>
+        </div>
+    </div>
+</body>
+</html>
