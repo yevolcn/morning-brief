@@ -1,0 +1,98 @@
+[
+  {
+    "title": "美国加速向盟友'出口人工智能'，芯片和大模型成为外交工具",
+    "summary": "韩国新世界集团与美国初创公司Reflection AI签署谅解备忘录，在韩国建设250兆瓦AI数据中心，开发针对韩语及韩国文化定制的AI模型，投资规模达数十亿美元。英伟达处于美国政府AI出口战略核心位置。",
+    "source": "环球时报/新浪财经",
+    "url": "http://finance.sina.com.cn/roll/2026-03-19/doc-inhrnktw1041154.shtml",
+    "date": "2026-03-19",
+    "category": "政策与战略"
+  },
+  {
+    "title": "马化腾首度分享'养虾'思考：AI要具备'活人感'，微信将落地AI智能体",
+    "summary": "腾讯CEO马化腾在年报业绩交流会上表示，'龙虾'类AI应用（如OpenClaw）无需用户守在屏幕前等待反馈，具备持续记忆能力与鲜明个性化特征，更像真实助理。微信将落地AI智能体，小程序都可能'龙虾化'。",
+    "source": "新浪财经/钛媒体",
+    "url": "http://finance.sina.com.cn/jjxw/2026-03-19/doc-inhrnkuc8858617.shtml",
+    "date": "2026-03-18",
+    "category": "产品动态"
+  },
+  {
+    "title": "小米MiMo大模型系列重磅三连更：V2-Pro、V2-Omni、V2-TTS发布",
+    "summary": "小米发布旗舰基座大模型MiMo-V2-Pro、全模态Agent模型MiMo-V2-Omni、MiMo-V2-TTS。此前在OpenRouter平台引起热议的匿名模型Hunter Alpha、Healer Alpha正是这两款模型的早期测试版，目前仍向开发者免费开放。",
+    "source": "智东西",
+    "url": "http://k.sina.com.cn/article_5953190046_162d6789e06702tk7o.html",
+    "date": "2026-03-19",
+    "category": "模型发布"
+  },
+  {
+    "title": "AI制药打响算力竞赛：罗氏布局AI工厂，部署超3500个Blackwell GPU",
+    "summary": "罗氏宣布扩展全球AI基础设施，部署由英伟达最新加速计算技术驱动的'AI工厂'，在美国和欧洲完成2176个高性能GPU部署，本地和云端GPU总容量超3500个Blackwell GPU，为目前已公布制药公司最大GPU规模。",
+    "source": "新浪财经",
+    "url": "http://finance.sina.com.cn/roll/2026-03-19/doc-inhrnktw1047796.shtml",
+    "date": "2026-03-16",
+    "category": "行业应用"
+  },
+  {
+    "title": "全球AI需求激增刺激产品涨价：阿里云、百度智能云AI算力最高涨价34%",
+    "summary": "受全球AI应用快速发展影响，算力需求持续攀升，核心硬件及基础设施成本显著上涨。百度智能云和阿里云相继宣布对AI算力、存储等产品进行价格调整，阿里云部分产品最高涨价34%，将于4月18日起生效。",
+    "source": "东方财富网",
+    "url": "https://wap.eastmoney.com/a/202603193676445430.html",
+    "date": "2026-03-18",
+    "category": "市场动态"
+  },
+  {
+    "title": "OpenAI发布GPT-5.4 mini与nano轻量级模型：运行速度提升2倍",
+    "summary": "OpenAI正式发布GPT-5.4 mini和GPT-5.4 nano两款轻量级模型，运行速度提升2倍，成本低延迟短，编程推理能力逼近旗舰模型。GPT-5.4 nano专为数据分类、提取及简单编程子任务设计。",
+    "source": "腾讯云开发者社区",
+    "url": "https://cloud.tencent.com/developer/article/2640478",
+    "date": "2026-03-18",
+    "category": "模型发布"
+  },
+  {
+    "title": "英伟达GTC大会发布新一代AI芯片：B20和GB200架构Blackwell亮相",
+    "summary": "英伟达创始人黄仁勋在GTC大会发布新一代芯片架构Blackwell及AI芯片B20和GB200。B200晶体管是H100的2倍多，可支持10万级参数AI模型；GB200推理性能提升30倍，能耗和成本减少25倍。同时发布人形机器人通用基础大模型G RUDE。",
+    "source": "小宇宙FM",
+    "url": "https://www.xiaoyuzhoufm.com/episode/65f97f73696bd9a879239ca5",
+    "date": "2026-03-18",
+    "category": "硬件基础设施"
+  },
+  {
+    "title": "人形机器人'入职'药品销售员：银河通用机器人获全国首张药品经营许可",
+    "summary": "银河通用机器人打造的即时零售智慧药房解决方案获北京市海淀区市场监督管理局颁发的《药品经营许可证》，这是全国首张面向人形机器人药品零售场景颁发的许可，Galbot机器人持证'上岗'成为药品销售员。",
+    "source": "新浪财经",
+    "url": "http://finance.sina.com.cn/jjxw/2026-03-19/doc-inhrnktx6977191.shtml",
+    "date": "2026-03-19",
+    "category": "具身智能"
+  },
+  {
+    "title": "阿里Qwen3.5系列发布：支持本地部署，8GB显存可运行4B模型",
+    "summary": "阿里发布千问Qwen3.5系列，Qwen3.5-4B在WildChat数据集1000个问题中胜出499个，8GB显存可运行；Qwen3.5-35B在RTX 5080上生成速度达120t/s，支持120K上下文与视觉功能，显存占用15.4GB。",
+    "source": "CSDN",
+    "url": "https://claw.csdn.net/69b412a80a2f6a37c5971c10.html",
+    "date": "2026-03-10",
+    "category": "模型发布"
+  },
+  {
+    "title": "Claude Opus 4.6发现Firefox 22个漏洞（14个高危），2周完成审计",
+    "summary": "Anthropic的Claude Opus 4.6在安全审计领域展现强大能力，2周内发现Firefox浏览器22个漏洞，其中14个为高危。Claude Code新增/loop命令支持会话内周期性任务，桌面版推出本地计划任务功能。",
+    "source": "CSDN AI前沿",
+    "url": "https://claw.csdn.net/69b412a80a2f6a37c5971c10.html",
+    "date": "2026-03-10",
+    "category": "安全与应用"
+  },
+  {
+    "title": "央视3·15晚会披露：AI大模型'投毒'已形成产业链",
+    "summary": "央视3·15晚会披露，AI大模型'投毒'已形成产业链。GEO服务商宣称付费即可让商品成为AI的'标准答案'，通过软文持续投喂让模型'信以为真'，虚构产品诱导AI模型推荐。",
+    "source": "新浪科技",
+    "url": "http://k.sina.com.cn/article_5952915705_162d248f906702mrvi.html",
+    "date": "2026-03-18",
+    "category": "安全与伦理"
+  },
+  {
+    "title": "OpenClaw 2026.3.7发布：支持GPT-5.4与Gemini 3.1，Star量破28万",
+    "summary": "OpenClaw发布2026.3.7版本，新增支持GPT-5.4与Gemini 3.1模型，新增上下文引擎插件、分布式频道绑定、长任务记忆机制、多Agent协作功能，GitHub Star数量突破28万。",
+    "source": "CSDN",
+    "url": "https://claw.csdn.net/69b412a80a2f6a37c5971c10.html",
+    "date": "2026-03-10",
+    "category": "开源工具"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Figma-to-Notion设计系统自动化：AI代理实现持续交付管道",
+    "summary": "2026年设计系统领域出现'Agentic Handoff'架构变革，使用MCP协议桥接Figma与Cursor/VS Code等IDE。AI代理可'读取'Figma文件，对比GitHub仓库，建议符合项目风格的有针对性diff。51%的专业开发者现在每天使用这些代理工具。",
+    "source": "ByteXel/UX Tigers",
+    "url": "https://bytexel.org/the-2026-shift-how-figma-to-code-is-eliminating-the-handoff-gap/",
+    "date": "2026-03-09",
+    "category": "设计工具"
+  },
+  {
+    "title": "V0.app全面重构：从组件生成器演进为全栈应用构建器",
+    "summary": "Vercel的V0于2026年1月从v0.dev rebranding为v0.app，反映其从UI组件生成器向全栈应用构建器的演进。目前已拥有600万+开发者、8万+活跃团队，预估ARR达4200万美元，月增长率约25%。新增沙盒运行时、Git面板、数据库集成（Snowflake/AWS）功能。",
+    "source": "Taskade/Capacity.so",
+    "url": "https://www.taskade.com/blog/vercel-v0-history",
+    "date": "2026-03-03",
+    "category": "开发工具"
+  },
+  {
+    "title": "Cursor被评日常开发首选AI IDE，但年费$240引发讨论",
+    "summary": "2026年前端工程师AI工具横评显示，Cursor以最强AI能力夺冠，被评为日常开发首选，支持多文件编辑、Shell执行、本地模型等完整功能。但年费$240的价格较高，Trae以50%价格提供80%体验，IfAI则完全免费成为'国货黑马'。",
+    "source": "Grenade/掘金/CSDN",
+    "url": "https://grenade.tw/blog/cursor-ai/",
+    "date": "2026-01-08",
+    "category": "开发工具"
+  },
+  {
+    "title": "Figma Make推出：prompt-to-UI生成+design-to-code MCP集成",
+    "summary": "Figma Make作为Cursor的替代方案，主打prompt-to-UI生成——用文本描述应用想法即可获得完整布局和交互的UI。核心优势是design-to-code MCP集成，AI编程工具（Cursor、VS Code、Claude）可直接读取Figma布局生成匹配代码。",
+    "source": "VibeCoding.app",
+    "url": "https://vibecoding.app/compare/cursor-vs-figma-make",
+    "date": "2026-03-12",
+    "category": "设计工具"
+  },
+  {
+    "title": "Notion AI 3.2版本发布：移动端AI笔记功能进化",
+    "summary": "Notion AI于2026年1月发布3.2版本，核心更新是移动端AI笔记——用户通勤、散步时，AI自动将语音转成结构化笔记、行动项和待办。进化速度较快，进一步强化AI在生产力工具中的集成。",
+    "source": "知乎专栏",
+    "url": "https://zhuanlan.zhihu.com/p/1998526220330103834",
+    "date": "2026-01-24",
+    "category": "生产力工具"
+  },
+  {
+    "title": "Claude Code新增/loop命令与桌面版本地计划任务功能",
+    "summary": "Anthropic为Claude Code新增/loop命令，支持秒/分/时/日时间单位，最多50个任务的会话内周期性任务；桌面版推出本地计划任务功能，应用启动时恢复执行。同时新增五大内置Agent技能（/simplify、/batch、/debug等）。",
+    "source": "CSDN",
+    "url": "https://claw.csdn.net/69b412a80a2f6a37c5971c10.html",
+    "date": "2026-03-10",
+    "category": "开发工具"
+  },
+  {
+    "title": "GitHub Copilot与Cursor对比：稳定但不惊艳，多文件编辑是短板",
+    "summary": "开发者实测对比显示，GitHub Copilot的Tab补全流畅，适合写重复性代码，但Chat功能与Cursor差距明显——不支持多文件编辑，上下文理解弱。价格$10/月，适合不想换编辑器、只需要智能补全的用户，'如果愿意换到Cursor，Copilot可以不用了'。",
+    "source": "掘金/CSDN",
+    "url": "https://juejin.cn/post/7612905767059816458",
+    "date": "2026-03-03",
+    "category": "开发工具"
+  },
+  {
+    "title": "2026年前端AI工具栈推荐：Supernova + Mintlify + ChatGPT组合",
+    "summary": "2026年设计系统自动化推荐技术栈：Supernova作为编排中心同步Figma、GitHub、Jira；Mintlify部署AI驱动的文档站点；ChatGPT定制GPTs查询组件库。配合MCP协议，AI编程助手可直接查询实时设计标准，消除开发者'凭记忆写组件'的问题。",
+    "source": "Browse AI Tools",
+    "url": "https://www.browse-ai.tools/blog/ai-automation-tools-figma-notion-design-systems-2026",
+    "date": "2026-01-15",
+    "category": "设计工具"
+  },
+  {
+    "title": "AI IDE横评：IfAI成'被低估的国货黑马'，完全免费MIT开源",
+    "summary": "2026年AI IDE横评发现IfAI作为国货黑马，完全免费、MIT开源，1.5秒启动、内存占用仅80MB，支持多文件编辑、Shell执行、本地模型等功能。相比Cursor年费$240，IfAI三年可省$720，已在Microsoft Store上架。",
+    "source": "CSDN AI Coding",
+    "url": "https://aicoding.csdn.net/6971a456a16c6648a984345d.html",
+    "date": "2026-01-22",
+    "category": "开发工具"
+  }
+]
