@@ -1,0 +1,86 @@
+{
+  "date": "2026-03-20",
+  "tools": [
+    {
+      "name": "Figma",
+      "title": "Figma MCP双向工作流：代码与画布真正连通",
+      "summary": "Figma官方2026年2月更新，通过Figma MCP server实现设计与代码的双向流动。新增Codex to Figma功能，可从代码生成Figma设计文件，支持设计上下文与Agent coding工具的标准化互通。Make Kits支持导入React Design System，让生成的原型直接使用产品级代码元件。",
+      "update_date": "2026-02-26",
+      "source": "Figma Blog/掘金",
+      "url": "https://juejin.cn/post/7617564617016623158",
+      "category": "设计工具"
+    },
+    {
+      "name": "Figma",
+      "title": "Figma AI五件套：完整图片编辑工作流",
+      "summary": "Figma AI图片编辑功能全面升级，包含Remove Background(去背)、Erase Object(擦除)、Isolate Object(分离)、Expand Image(延伸)、Vectorize(向量化)五大工具。可直接在画布上完成原本需要跳转到Photoshop的操作，提升工作流程顺畅度。",
+      "update_date": "2026-02月",
+      "source": "Figma Blog",
+      "url": "https://rar.design/posts/figma-ai-guide",
+      "category": "设计工具"
+    },
+    {
+      "name": "Cursor",
+      "title": "Cursor 2.4发布：Subagents多任务并行成亮点",
+      "summary": "Cursor 2.4版本新增Subagents(子代理)功能，一个总代理可带着多个小代理并行干活——前端、后端、测试同时处理。新增Skills系统，可将代码规范写成SKILL.md文件让AI自动遵循。还支持在编辑器内直接生成图片。",
+      "update_date": "2026-03月",
+      "source": "CSDN/掘金",
+      "url": "https://blog.csdn.net/jiangjunshow/article/details/157814990",
+      "category": "编程工具"
+    },
+    {
+      "name": "Cursor",
+      "title": "Cursor网页版发布：可管理AI编程助手",
+      "summary": "Cursor推出网页版应用，用户可通过浏览器直接调用AI编码智能体，不再局限于传统IDE。支持任务进度跟踪和改动合并，网页版还提供任务进度跟踪和改动合并功能，方便团队协作。",
+      "update_date": "2025-07",
+      "source": "AI星球视界",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI5NzMwMDM0OQ==&mid=2247487012",
+      "category": "编程工具"
+    },
+    {
+      "name": "Vercel v0",
+      "title": "v0.dev正式更名为v0.app，用户数突破600万",
+      "summary": "Vercel v0从v0.dev更名为v0.app，反映其从UI组件生成器向全栈应用构建器的演进。目前已拥有600万+开发者、8万+活跃团队，ARR约4200万美元。新增沙盒运行时、Git面板、数据库集成(Snowflake/AWS)等功能。",
+      "update_date": "2026-01",
+      "source": "Taskade",
+      "url": "https://www.taskade.com/blog/v0-review",
+      "category": "开发工具"
+    },
+    {
+      "name": "Vercel v0",
+      "title": "v0新增Agent Mode：可自主规划和修复错误",
+      "summary": "v0 Agent Mode可自主规划、获取数据、修复错误，不再只是生成静态组件。2026年已支持GitHub集成，可直接从v0部署到Vercel。平台估值达93亿美元，月环比增长约25%。",
+      "update_date": "2026-03",
+      "source": "Taskade/GetPanto",
+      "url": "https://www.getpanto.ai/blog/v0-ai-platform-statistics",
+      "category": "开发工具"
+    },
+    {
+      "name": "GitHub Copilot",
+      "title": "GitHub Copilot与Cursor深度对比：2026选型指南",
+      "summary": "2026年AI编程工具选型分析显示：Copilot适合已有成熟代码库、追求稳定的大型团队；Cursor适合新项目、原型开发、独立开发者。Cursor的跨文件理解能力被评为"碾压级"，多文件同时编辑一个Prompt即可完成。",
+      "update_date": "2026-03",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7612929520988586019",
+      "category": "编程工具"
+    },
+    {
+      "name": "Notion AI",
+      "title": "Notion AI新增AI速记功能及同意声明管理",
+      "summary": "Notion AI新增AI速记功能，管理员可前往设置→Notion AI→AI速记，选择"强制为所有工作空间成员播放同意声明"。进一步优化企业级AI功能的管理和合规性。",
+      "update_date": "2026-03-11",
+      "source": "Notion官方",
+      "url": "https://www.notion.com/zh-cn/releases",
+      "category": "生产力工具"
+    },
+    {
+      "name": "Figma",
+      "title": "Figma Make：从设计到可交互原型的Prompt工具",
+      "summary": "Figma Make是Config 2025最受瞩目的新产品，支持prompt-to-prototype。用户可用文字描述或上传Figma设计文件，生成可交互、有真实数据的高保真原型。底层跑真正的React代码，支持接入Supabase等后端数据库。",
+      "update_date": "2025-05",
+      "source": "RAR Design",
+      "url": "https://rar.design/posts/figma-ai-guide",
+      "category": "设计工具"
+    }
+  ]
+}

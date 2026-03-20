@@ -1,0 +1,75 @@
+{
+  "date": "2026-03-20",
+  "news": [
+    {
+      "title": "阿里立下AI商业化"军令状"：未来五年冲击千亿美元年收入",
+      "summary": "阿里巴巴CEO吴泳铭宣布AI战略商业目标：未来五年，包含MaaS在内的云和AI商业化年收入突破1000亿美元。2026财年第三季度，阿里云收入432.84亿元同比增长36%，AI相关产品收入连续十个季度三位数增长。平头哥自研GPU已规模化量产，累计交付47万片。",
+      "source": "每日经济新闻",
+      "url": "https://cd.nbd.com.cn/articles/2026-03-19/4300147.html",
+      "category": "AI战略"
+    },
+    {
+      "title": "华为：智能化迈向广阔应用阶段，Token经济新蓝海开启",
+      "summary": "华为中国合作伙伴大会2026在深圳开幕，预计2026年AI算力需求全面爆发，将给ICT产业带来超8000亿元市场机会。到2030年，中国AI相关产业规模将突破10万亿元。华为已联合3000余家合作伙伴服务20多个行业，支持65个主流大模型开发。",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-03/20/content_2190432.htm",
+      "category": "AI算力"
+    },
+    {
+      "title": "DeepSeek疑似发布新一代模型Hunter Alpha引发热议",
+      "summary": "名为Hunter Alpha的神秘AI模型登陆开发者平台，凭借1万亿参数、100万token上下文窗口及免费访问策略，数日内处理超1600亿个token。因其训练数据截止期与推理风格与DeepSeek高度一致，市场猜测其为DeepSeek V4的秘密测试版。",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3767870",
+      "category": "大模型"
+    },
+    {
+      "title": "腾讯Q4财报：AI投资至少翻倍，马化腾首谈"养虾"构想",
+      "summary": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利。马化腾在电话会首谈"养虾"构想，今年AI投资至少翻倍，智能体将催生去中心化新生态。腾讯已投中"龙虾三兄弟"——迅策、MiniMax、智谱。",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3767870",
+      "category": "财报"
+    },
+    {
+      "title": "Meta千亿自研大模型"牛油果"遭延期至5月",
+      "summary": "Meta将其代号为"牛油果"(Avocado)的最新AI模型发布时间从原定2026年3月推迟至5月。该模型性能不及谷歌Gemini 3.0等竞品。Meta 2026年AI支出预计最高达1350亿美元，还讨论了临时租用谷歌Gemini系统的可能性。",
+      "source": "纽约时报/DoNews",
+      "url": "https://www.donews.com/news/detail/4/6465714.html",
+      "category": "大模型"
+    },
+    {
+      "title": "OpenAI发布GPT-5.3 Instant，幻觉率大幅降低",
+      "summary": "OpenAI发布GPT-5.3 Instant，在"高风险领域"评估中表现优异：联网模式下幻觉率降低26.8%，依靠模型自身知识库时降低19.7%。GPT-5.2 Instant将于2026年6月3日退役。",
+      "source": "沙丘社区",
+      "url": "https://www.shaqiu.cn/article/X7WmYp2kLgdo",
+      "category": "产品发布"
+    },
+    {
+      "title": "月之暗面Kimi K2模型发布，总参数量达1万亿",
+      "summary": "月之暗面发布并开源最新MoE架构基础模型Kimi K2，总参数量达1万亿，激活参数为32B，在编程、数学等方面能力显著提升。Perplexity CEO表示将使用Kimi K2进行后训练。",
+      "source": "AI行业周报",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzkxMDgwMzcxMA==&mid=2247483758",
+      "category": "大模型"
+    },
+    {
+      "title": "AI搜索GEO优化引发"数据污染"争议",
+      "summary": "国内主流AI搜索平台警告部分GEO(生成式引擎优化)涉嫌"数据污染"和"结果操控"。今年"3·15"晚会曝光AI大模型遭"投毒"，引发公众对AI信息生态的普遍担忧。GEO正成为继SEO之后的新一代流量入口争夺战。",
+      "source": "中国新闻网/证券日报",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-20/10589742.shtml",
+      "category": "行业观察"
+    },
+    {
+      "title": "阿里巴巴成立Alibaba Token Hub事业群",
+      "summary": "阿里成立全新的Alibaba Token Hub事业群(ATH)，以"创造Token、输送Token、应用Token"为核心目标，包括通义实验室、MaaS业务线、千问事业部、悟空事业部及AI创新事业部，为AI ToB和ToC双线发力提供组织保障。",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-03/20/content_2190434.htm",
+      "category": "组织架构"
+    },
+    {
+      "title": "阿里发布首个企业级AI原生工作平台"悟空"",
+      "summary": "阿里巴巴发布首个企业级AI原生工作平台"悟空"，作为阿里B端AI应用入口，将直接内置到超2000万企业组织的钉钉之中。阿里AI ToC旗舰应用千问C端月活跃用户数已突破3亿。",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-03/20/content_2190434.htm",
+      "category": "产品发布"
+    }
+  ]
+}
