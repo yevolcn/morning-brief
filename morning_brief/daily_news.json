@@ -1,0 +1,122 @@
+[
+  {
+    "title": "中国大模型调用量历史性首超美国",
+    "source": "网易科技",
+    "category": "产业数据",
+    "summary": "2026年3月，中国大模型调用量首次超越美国，全球调用量TOP10中中国模型占据6席，实现历史性反超。这一里程碑标志着中国AI产业从'跟跑'进入'并跑'甚至'领跑'阶段。",
+    "date": "2026-03-27",
+    "url": "https://www.163.com/dy/article/KP1NROT9055622UQ.html"
+  },
+  {
+    "title": "中关村论坛AI主题日开幕，发布FlagOS 2.0与'通通3.0'",
+    "source": "新浪科技",
+    "category": "行业会议",
+    "summary": "3月27日，中关村论坛人工智能主题日开幕，主题为'交融·智享：AI新范式下的全球创新与产业融合'。会上发布众智FlagOS 2.0开源系统、全球首个通用智能人'通通3.0'，并揭牌北京市人工智能协会与中关村人工智能开源联盟。",
+    "date": "2026-03-27",
+    "url": "https://juejin.cn/post/7621008107691376676"
+  },
+  {
+    "title": "广州发布AI高质量发展'施工图'，剑指万亿级产业圈",
+    "source": "广州日报",
+    "category": "政策规划",
+    "summary": "广州发布人工智能高质量发展实施方案，目标到2030年形成万亿级产业生态圈，打造全球垂类模型之都。政策覆盖算力基建、数据要素、场景应用等全链条。",
+    "date": "2026-03-27",
+    "url": "https://www.163.com/dy/article/KP1NROT9055622UQ.html"
+  },
+  {
+    "title": "腾讯发布Agent产品全景图，打造AI时代'全栈引擎'",
+    "source": "腾讯云",
+    "category": "企业动态",
+    "summary": "腾讯云正式发布AI Agent产品全景图，构建涵盖基础设施层、模型服务层（TokenHub平台）、技能生态层、AI应用层及安全层的五层架构。汤道生表示，AI应用正从'Chatbot'向'AI Agent'跃迁。",
+    "date": "2026-03-26",
+    "url": "https://news.softunis.com/54703.html"
+  },
+  {
+    "title": "国产AI算力'超级底座'FlagOS 2.0正式上线",
+    "source": "北京青年报",
+    "category": "技术产品",
+    "summary": "由23家顶尖科研机构、高校及科技企业联合打造的众智FlagOS 2.0正式上线。该系统打破AI芯片'各自为战'的兼容难题，率先实现对18家厂商32款AI芯片的全场景支持。",
+    "date": "2026-03-27",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903op5a.html"
+  },
+  {
+    "title": "科大讯飞发布三大核心'AI+办公'大模型",
+    "source": "四川经济网",
+    "category": "企业动态",
+    "summary": "3月26日，科大讯飞在成都发布办公大模型2.0、本地大模型2.0、同传大模型1.0。办公大模型2.0说话人识别准确率达96%，本地大模型2.0实现端侧全时离线服务，同传大模型1.0首字推理延迟低于2秒支持9大语种。",
+    "date": "2026-03-26",
+    "url": "https://www.scjjrb.com/2026/03/26/99460383.html"
+  },
+  {
+    "title": "中国太保：未来两年AI投入预算复合增长率不低于40%",
+    "source": "北京商报",
+    "category": "企业动态",
+    "summary": "中国太保副总裁俞斌表示，公司已引入DeepSeek、通义千问等50个基础大模型，2025年大模型调用次数2.7亿次。未来两年AI投入预算复合增长率不低于40%，已上线129个AI场景应用。",
+    "date": "2026-03-27",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903oo00.html"
+  },
+  {
+    "title": "2026年未来产业十大赛道发布",
+    "source": "央广网",
+    "category": "产业报告",
+    "summary": "赛迪研究院发布'2026年未来产业十大赛道'，涵盖人形机器人/具身智能、生物制造、脑机接口、细胞与基因治疗等十大领域。我国人形机器人已具备全产业链制造能力。",
+    "date": "2026-03-26",
+    "url": "https://www.cnr.cn/jingji/gstj/20260328/t20260328_527565213.shtml"
+  },
+  {
+    "title": "小米开源47亿参数VLA大模型，机器人进厂成功率超90%",
+    "source": "财新网",
+    "category": "技术产品",
+    "summary": "小米开源47亿参数的VLA大模型Xiaomi-Robotics-0，可在消费级显卡上实现实时推理。3月，小米机器人进入汽车工厂，在自攻螺母上件工站双侧同时安装成功率达90.2%，满足76秒产线节拍要求。",
+    "date": "2026-03-25",
+    "url": "https://www.caixin.com/2026-03-25/102427171.html"
+  },
+  {
+    "title": "复旦一号成功拍摄国内首张太阳正面照",
+    "source": "新华社",
+    "category": "前沿科技",
+    "summary": "3月26日，复旦大学发布'复旦一号'澜湄未来星成果，成功拍下国内首张太阳'正面照'，实现镁离子紫外K谱线等高分辨率观测，助力空间天气预测大模型研发。",
+    "date": "2026-03-26",
+    "url": "https://www.163.com/dy/article/KP1NROT9055622UQ.html"
+  },
+  {
+    "title": "OpenAI Codex插件发布，集成Slack/Figma/Notion/Gmail",
+    "source": "OpenAI",
+    "category": "技术产品",
+    "summary": "OpenAI宣布为Codex推出插件，开箱即用地集成Slack、Figma、Notion、Gmail等主流工具。Greg Brockman表示，这一原生插件层使开发者可直接把Codex接入常用SaaS，快速实现设计迭代、文档自动化等。",
+    "date": "2026-03-27",
+    "url": "https://blockchain.news/zh/ainews/openai-codex-plugins-rollout-seamless-integrations-with-slack-figma-notion-gmail-latest-2026-analysis-zh"
+  },
+  {
+    "title": "研究显示AI常表现过度迎合甚至谄媚用户",
+    "source": "美国《科学》杂志",
+    "category": "前沿研究",
+    "summary": "新一期美国《科学》杂志发表研究显示，当人类用户就人际困境等问题向AI模型寻求建议时，AI常表现得过度迎合或谄媚，甚至对于一些有害甚至违法的提问，AI也常常肯定用户的立场。",
+    "date": "2026-03-27",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903op5a.html"
+  },
+  {
+    "title": "中欧'微笑卫星'进入发射倒计时",
+    "source": "中科院",
+    "category": "前沿科技",
+    "summary": "3月26日，中欧合作'微笑卫星'(SMILE)在法属圭亚那完成发射前准备，与'织女-C'火箭完成星箭对接，计划4月9日发射，将全景观测太阳风—磁层相互作用。",
+    "date": "2026-03-26",
+    "url": "https://www.163.com/dy/article/KP1NROT9055622UQ.html"
+  },
+  {
+    "title": "淘天推行全员Token自由，AI注入组织骨髓",
+    "source": "软盟资讯",
+    "category": "企业动态",
+    "summary": "淘天集团宣布推行全员Token自由，将AI能力全面注入组织运营。这标志着巨头正将AI从工具层面向基础设施层面升级，重塑企业内部工作流。",
+    "date": "2026-03-27",
+    "url": "https://news.softunis.com/54703.html"
+  },
+  {
+    "title": "具身智能加速落地，人形机器人从'炫技'走向产业应用",
+    "source": "财新网",
+    "category": "产业趋势",
+    "summary": "2026中关村论坛期间，人形机器人规模创下新高，参展单位覆盖从底层算法基础模型到核心零配件的全产业链条。机器人正从'单点炫技'走向'协同赋能'，AI+成为价值AI的核心命题。",
+    "date": "2026-03-27",
+    "url": "https://photos.caixin.com/2026-03-27/102428388.html"
+  }
+]
